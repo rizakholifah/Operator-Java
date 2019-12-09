@@ -8,9 +8,9 @@ public class operator1{
         System.out.println(a/b);
         System.out.println(a*b);
         System.out.println(a%b);
-        a++
+        a++;
         System.out.println(a);
-        b++
+        b++;
         System.out.println(b);
 
     }
